@@ -1,4 +1,4 @@
-# Upskilling-JavaInhertancePolimorphism
+# Upskilling-Java Inhertance and Polimorphism
 
 ## Polimorphism
 
