@@ -8,9 +8,12 @@ There are two differnt types of polimorphism:
 ### Estatic 
 Java allows to implement multiple methods in the same class with the same name. The methods must differ in at least one of the following criteria:
 
--Have a different quantity of arguments.
+- Have a different quantity of arguments.
 - The Type of the arguments is different.
 - The excepcted arguments are in different order (not recommended).
-
-
+- 
 ### Dynamic
+In this way Polymorphism does not allow the compiler to determine the method that will be executed. The JVM determines the execution time.
+Always in the context of Inheritance, a subclass can override a method of its parent class (superclass), allowing you to customize or replace its behavior entirely.
+
+
