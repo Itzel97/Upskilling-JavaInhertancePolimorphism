@@ -64,4 +64,5 @@ Example:
 ```
 
 Itzel is a Person? - Yes
+
 Itzel is a Client? - Yes
