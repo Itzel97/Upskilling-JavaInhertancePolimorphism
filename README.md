@@ -5,9 +5,11 @@
 In Java is possible inhertance the atributes and methods from one class to another. This are group in two categories:
 
 - Subclass
+
 The class inheritance from another.
 
 - Superclass
+
 The class where inheritance from .
 
 ## Polimorphism
