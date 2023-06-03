@@ -37,3 +37,17 @@ Always in the context of Inheritance, a subclass can override a method of its pa
 ## Why to use Inheritance and Polimorphism?
 
 Their principal advantage is that allows reuse the code.
+
+## Is-A Test
+
+Is a simple test that let us know the behaivor of the code before executed it.
+We need to make this question:
+
+Object1 IS A Class2?
+
+**Example:**
+If a class Telephone is inheritance from the class Device, we make us this question:
+
+Object Telephone IS A Device?
+
+In this case the answer is TRUE.
