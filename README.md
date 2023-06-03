@@ -1,4 +1,14 @@
-# Upskilling-Java Inhertance and Polimorphism
+# Upskilling-Java Inheritance and Polimorphism
+
+## Inheritance
+
+In Java is possible inhertance the atributes and methods from one class to another. This are group in two categories:
+
+- Subclass
+The class inheritance from another.
+
+- Superclass
+The class where inheritance from .
 
 ## Polimorphism
 
@@ -11,7 +21,7 @@ Java allows to implement multiple methods in the same class with the same name. 
 - Have a different quantity of arguments.
 - The Type of the arguments is different.
 - The excepcted arguments are in different order (not recommended).
-- 
+-
 ### Dynamic
 In this way Polymorphism does not allow the compiler to determine the method that will be executed. The JVM determines the execution time.
 Always in the context of Inheritance, a subclass can override a method of its parent class (superclass), allowing you to customize or replace its behavior entirely.
