@@ -50,4 +50,18 @@ If a class Telephone is inheritance from the class Device, we make us this quest
 
 Object Telephone IS A Device?
 
-In this case the answer is TRUE.
+In this case the answer is TRUE. 
+
+If the object pass two tests is a polimorphism case.
+
+Example:
+
+```
+     Cliente itzel = new Cliente("Itzel",26,"VIP","IAAG");
+     
+     System.out.println("Itzel Is-An Client: " + (itzel instanceof Cliente)); // its TRUE
+     System.out.println("Itzel Is-An Person: " + (itzel instanceof Persona)); // its TRUE
+```
+
+Itzel is a Person? - Yes
+Itzel is a Client? - Yes
