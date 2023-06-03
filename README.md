@@ -8,6 +8,15 @@ In Java is possible inhertance the atributes and methods from one class to anoth
 
 - Superclass: The class where inheritance from .
 
+To avoid that a class can be inheritance, the reserved word **final** is used:
+
+```
+ final class Example {
+    .....
+ }  
+ 
+```
+
 ## Polimorphism
 
 Is one of the pillars of OOP and describes the situations in something that can happend in many ways.
@@ -25,3 +34,6 @@ In this way Polymorphism does not allow the compiler to determine the method tha
 Always in the context of Inheritance, a subclass can override a method of its parent class (superclass), allowing you to customize or replace its behavior entirely.
 
 
+### Why to use Inheritance and Polimorphism?
+
+Their principal advantage is that allows reuse the code.
